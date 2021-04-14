@@ -1,3 +1,9 @@
 {
-  "enabledManagers": ["gomod"]
+  "enabledManagers": ["gomod"],
+  "packageRules": [
+    {
+      "excludePackageNames": ["golang.org/x/net"],
+      "enabled": false
+    }
+  ]
 }
