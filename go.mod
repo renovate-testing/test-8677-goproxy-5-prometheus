@@ -29,7 +29,7 @@ require (
 	github.com/golang/snappy v0.0.3
 	github.com/google/pprof v0.0.0-20210323184331-8eee2492667d
 	github.com/gophercloud/gophercloud v0.16.0
-	github.com/grpc-ecosystem/grpc-gateway v1.16.0
+	github.com/grpc-ecosystem/grpc-gateway v1.9.5
 	github.com/hashicorp/consul/api v1.8.1
 	github.com/hetznercloud/hcloud-go v1.24.0
 	github.com/influxdata/influxdb v1.8.4
@@ -65,6 +65,7 @@ require (
 	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba
 	golang.org/x/tools v0.1.0
 	google.golang.org/api v0.42.0
+	google.golang.org/protobuf v1.25.1-0.20201208041424-160c7477e0e8 // indirect
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/fsnotify/fsnotify.v1 v1.4.7
 	gopkg.in/yaml.v2 v2.4.0
