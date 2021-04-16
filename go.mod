@@ -17,7 +17,7 @@ require (
 	github.com/dgryski/go-sip13 v0.0.0-20200911182023-62edffca9245
 	github.com/digitalocean/godo v1.58.0
 	github.com/docker/distribution v2.7.1+incompatible // indirect
-	github.com/docker/docker v20.10.5+incompatible
+	github.com/docker/docker v20.10.6+incompatible
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/edsrzf/mmap-go v1.0.0
 	github.com/go-kit/kit v0.10.0
