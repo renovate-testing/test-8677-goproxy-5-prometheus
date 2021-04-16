@@ -66,7 +66,7 @@ require (
 	golang.org/x/tools v0.1.0
 	google.golang.org/api v0.42.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
-	gopkg.in/fsnotify/fsnotify.v1 v1.4.7
+	gopkg.in/fsnotify/fsnotify.v1 v1.4.9
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 	gotest.tools/v3 v3.0.3 // indirect
