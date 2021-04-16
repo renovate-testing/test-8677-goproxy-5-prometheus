@@ -15,7 +15,7 @@ require (
 	github.com/cespare/xxhash/v2 v2.1.1
 	github.com/containerd/containerd v1.4.3 // indirect
 	github.com/dgryski/go-sip13 v0.0.0-20200911182023-62edffca9245
-	github.com/digitalocean/godo v1.58.0
+	github.com/digitalocean/godo v1.60.0
 	github.com/docker/distribution v2.7.1+incompatible // indirect
 	github.com/docker/docker v20.10.5+incompatible
 	github.com/docker/go-connections v0.4.0 // indirect
