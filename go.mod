@@ -59,7 +59,7 @@ require (
 	go.uber.org/atomic v1.7.0
 	go.uber.org/goleak v1.1.10
 	golang.org/x/net v0.0.0-20210324051636-2c4c8ecb7826
-	golang.org/x/oauth2 v0.0.0-20210323180902-22b0adad7558
+	golang.org/x/oauth2 v0.0.0-20210413134643-5e61552d6c78
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/sys v0.0.0-20210324051608-47abb6519492
 	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba
