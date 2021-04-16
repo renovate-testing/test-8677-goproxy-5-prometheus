@@ -11,7 +11,7 @@ require (
 	github.com/HdrHistogram/hdrhistogram-go v1.0.1 // indirect
 	github.com/Microsoft/go-winio v0.4.16 // indirect
 	github.com/alecthomas/units v0.0.0-20210208195552-ff826a37aa15
-	github.com/aws/aws-sdk-go v1.38.3
+	github.com/aws/aws-sdk-go v1.38.21
 	github.com/cespare/xxhash/v2 v2.1.1
 	github.com/containerd/containerd v1.4.3 // indirect
 	github.com/dgryski/go-sip13 v0.0.0-20200911182023-62edffca9245
